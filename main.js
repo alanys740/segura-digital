@@ -13,6 +13,7 @@ const forcaSenha = document.querySelector('.forca');
 
 botoes[0].onclick = diminuiTamanho;
 botoes[1].onclick = aumentaTamanho;
+botoes[2].onclick = senha;
 
 
 function diminuiTamanho(){
